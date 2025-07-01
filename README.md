@@ -55,9 +55,9 @@ All related questions and answers are included in: [`interview-questions.txt`](i
 ## Screenshots
 
 - [`weak-password-result.png`](screenshots/weak-password-result.png)
-- [`medium-password-result.png`](medium-password-result.png)
-- [`strong-password-result.png`](strong-password-result.png)
-- [`passwordmeter-scores.png`](passwordmeter-scores.png)
+- [`medium-password-result.png`](screenshots/medium-password-result.png)
+- [`strong-password-result.png`](screenshots/strong-password-result.png)
+- [`passwordmeter-scores.png`](screenshots/passwordmeter-scores.png)
 
 ---
 
