@@ -1,0 +1,24 @@
+1. What makes a password strong?
+   Length (12+), mix of character types, unpredictability, no personal info.
+
+2. What are common password attacks?
+   Brute-force, dictionary attacks, credential stuffing, phishing.
+
+3. Why is password length important?
+   Longer passwords take exponentially more time to brute-force.
+
+4. What is a dictionary attack?
+   A method using a list of common words/passwords to guess passwords.
+
+5. What is multi-factor authentication?
+   A security method requiring extra verification steps (e.g., OTP, biometrics).
+
+6. How do password managers help?
+   They store and generate secure passwords, reducing human error.
+
+7. What are passphrases?
+   A string of unrelated words used as a password (e.g., "PurpleTiger!Moon42").
+
+8. What are common mistakes in password creation?
+   Using personal info, reusing passwords, short or simple passwords.
+

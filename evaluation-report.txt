@@ -1,0 +1,12 @@
+1. Password: 12345, 00000, 09876
+   - Rating: Very Weak
+   - Issues: Only numbers, too short, commonly used password
+
+2. Password: devendra@123, @password#
+   - Rating: Medium
+   - Issues: Missing uppercase, similar pattern, better than average
+
+3. Password: D3v#J@i5w@L2025, E|E<@tE|_@8$, CY8er$Ecur!TY
+   - Rating: Strong
+   - Feedback: Good length, different character types, no dictionary words
+
